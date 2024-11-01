@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The various inputs will be used to determine if there is success on the output.
 
 ## How to test
 
-Explain how to use your project
+Change inputs to change the output
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No extra hardware needed.
